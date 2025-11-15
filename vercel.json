@@ -1,0 +1,4 @@
+{
+  "deprecated": true,
+  "note": "Not used. Backend deployment should target backend/app.py via Render or Railway."
+}
